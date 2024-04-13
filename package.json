@@ -1,0 +1,29 @@
+{
+  "name": "teapackage-0225",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Wanten's first npm package",
+  "keywords": [
+    "hello-world"
+  ],
+  "homepage": "https://github.com/Oldwarma/TeaPackage-2",
+  "bugs": {
+    "url": "https://github.com/Oldwarma/TeaPackage-2/issues",
+    "email": "2562208828abc@gamil.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oldwarma/TeaPackage-2.git"
+  },
+  "funding": "https://github.com/Oldwarma",
+  "license": "MIT",
+  "author": "oldwarma <2562208828abc@gmail.com> (https://github.com/Oldwarma)",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
